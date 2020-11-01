@@ -1,14 +1,17 @@
-# MG
-software project to develop a new app.
+#MG
 
 ## Introduction
-this is an introduction
+This is introduction.
 
-## How to install github
-this is explanation how to install
+## How to install
+This is explanation how to install
 
-### In Windows ...
+### In Windows
+...
 
-### In Linux ...
+### In Linux
+...
 
-### In Mac ...
+### In Mac
+...
+
