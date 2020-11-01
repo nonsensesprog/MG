@@ -1,16 +1,16 @@
 # MG
 
-##Introduction
+## Introduction
 This is introduction.
 
-##How to install
+## How to install
 This is explanation how to install
 
-###In Windows
+### In Windows
 ...
 
-###In Linux
+### In Linux
 ...
 
-###In Mac
+### In Mac
 ...
